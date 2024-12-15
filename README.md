@@ -36,3 +36,6 @@
    ```sh
    python shatool.py
    ```
+
+# Klik cara penggunaan nya:
+https://videy.co/v?id=vlHodWgO1
