@@ -1,56 +1,56 @@
 # SHATOOL
 
-## Installation Guide
+## Panduan Instalasi
 
-### Installation on PC
+### Instalasi di PC
 
-1. **Install Python:**
-   - Download and install Python from the [official Python website](https://www.python.org/downloads/).
-   - Make sure to check the option to add Python to your PATH during installation.
+1. **Instal Python:**
+   - Unduh dan instal Python dari [situs resmi Python](https://www.python.org/downloads/).
+   - Pastikan untuk mencentang opsi untuk menambahkan Python ke PATH Anda selama instalasi.
 
-2. **Clone the Repository:**
+2. **Klon Repository:**
    ```sh
    git clone https://github.com/Aarmaaa28/SHATOOL.git
    cd SHATOOL
    ```
 
-3. **Install Required Packages:**
+3. **Instal Paket yang Diperlukan:**
    ```sh
    pip install -r requirements.txt
    ```
 
-4. **Run the Tool:**
+4. **Jalankan:**
    ```sh
    python shatool.py
    ```
 
-### Installation on Android using Termux
+### Instalasi di Android menggunakan Termux
 
-1. **Install Termux:**
-   - Download and install Termux from [F-Droid](https://f-droid.org/repo/com.termux_1000.apk).
+1. **Instal Termux:**
+   - Unduh dan instal Termux dari [F-Droid](https://f-droid.org/repo/com.termux_1000.apk).
 
-2. **Update and Upgrade Termux:**
+2. **Perbarui dan Tingkatkan Termux:**
    ```sh
    pkg update -y && pkg upgrade -y
    ```
 
-3. **Install Git and Python:**
+3. **Instal Git dan Python:**
    ```sh
    pkg install git -y && pkg install python -y
    ```
 
-4. **Clone the Repository:**
+4. **Klon Repository:**
    ```sh
    git clone https://github.com/Aarmaaa28/SHATOOL.git
    cd SHATOOL
    ```
 
-5. **Install Required Packages:**
+5. **Instal Paket yang Diperlukan:**
    ```sh
    pip install -r requirements.txt
    ```
 
-6. **Run the Tool:**
+6. **Jalankan:**
    ```sh
    python shatool.py
    ```
