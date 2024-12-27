@@ -1,7 +1,5 @@
 # SHATOOL
 
-## Panduan Instalasi
-
 ### Instalasi di PC
 
    - Unduh dan instal Python dari [situs resmi Python](https://www.python.org/downloads/).
